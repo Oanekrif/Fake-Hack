@@ -7,21 +7,21 @@ This script uses Python's secrets library to generate a massive stream of random
 When you run the program, it outputs an overwhelming amount of "coded data" that looks like it's performing intense hacking operations.</br>
 
 ## ⚙️ Code Overview
-![Code Overview](src/image.jpg)
+![Code Overview](src/img.jpg)
 
     import secrets
     bruh = secrets.token_hex(10000000)
     print(bruh)
 
 ## 📸 Result Overview
-![Code Overview](src/image2.jpg)
+![Code Overview](src/img2.jpg)
 
 To change the terminal text color to green in the Windows Command Prompt (CMD) directly</br>
 Simply type the following in your Command Prompt:</br>
 
      color 2
      
-![Code Overview](src/image3.jpg)
+![Code Overview](src/img3.jpg)
 
 ### Explanation:
 • secrets.token_hex(10000000): This generates 20,000,000 random hexadecimal characters. 
