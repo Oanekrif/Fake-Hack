@@ -15,6 +15,7 @@ When you run the program, it outputs an overwhelming amount of "coded data" that
     print(bruh)
     
 </br>
+
 ## 🖼️ Result Overview</br>
 
 ![Code Overview](src/img2.jpg)
