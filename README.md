@@ -17,7 +17,6 @@ When you run the program, it outputs an overwhelming amount of "coded data" that
 ![Code Overview](src/image2.jpg)
 
 To change the terminal text color to green in the Windows Command Prompt (CMD) directly</br>
-
 Simply type the following in your Command Prompt:</br>
 
      color 2
