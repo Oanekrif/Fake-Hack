@@ -8,7 +8,7 @@ This script uses Python's secrets library to generate a massive stream of random
 When you run the program, it outputs an overwhelming amount of "coded data" that looks like it's performing intense hacking operations.</br>
 
 ## ⚙️ Code Overview
-![Code Overview](src/img.jpg)
+<img alt="Code Overview" src="src/img.jpg" width="700">
 
     import secrets
     bruh = secrets.token_hex(10000000)
